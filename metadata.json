@@ -1,0 +1,6 @@
+{
+  "name": "WMS SMART – Gestão Inteligente de Armazém",
+  "description": "Sistema de Gestão de Armazém (WMS) simplificado para controle de 150 posições porta-paletes, recebimento, picking, consulta, cadastro de produtos e histórico de movimentações.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
